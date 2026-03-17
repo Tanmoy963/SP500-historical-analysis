@@ -1,10 +1,4 @@
-Here is a `README.md` file tailored perfectly for your S\&P 500 project, matching the exact styling, emojis, and professional formatting of the Amlan Mohanty example you provided.
 
-I have included image placeholders right in the text so you can drag and drop the "work-in-progress" screenshots you just uploaded to show recruiters your actual build process\!
-
------
-
-````markdown
 # 📈 S&P 500 Market Trends Data Analyst Portfolio Project
 This project represents a complete, industry-standard, end-to-end data analytics workflow, analyzing four years of historical stock market data (2014-2017). The project encompasses all critical stages of financial data analysis, from data preparation and Python-based EDA to DAX modeling and Power BI visualization.
 
@@ -25,22 +19,15 @@ The goal of this project is to simulate a corporate-grade financial analytics wo
 ✅ **Report and Presentation:** Wrote a clear project report summarizing key findings and strategic business recommendations for portfolio managers.
 
 ### 🛠️ Behind the Scenes: Building the Dashboard
-*Handling Power BI Date Hierarchies to ensure daily granularity instead of yearly aggregation:*
-![Fixing Date Granularity](Screenshot 2026-02-27 203742.png) 
-![Daily Granularity Applied]({1187AF02-D4FD-494F-A7B8-330EB6594376}.png)
 
-*Drafting the layout and prototyping DAX measures:*
-![Prototyping Layout](Screenshot 2026-03-08 203737.jpg)
-
-## 🛠️ How to Use This Project
-
+![My Dashboard](<img width="1920" height="1020" alt="dashboard png" src="https://github.com/user-attachments/assets/c3988205-6488-401e-a66f-810bfb5dd531" />
+)
 1. **Clone the repository**
    ```bash
    git clone [https://github.com/yourusername/sp500-market-trends-dashboard.git](https://github.com/yourusername/sp500-market-trends-dashboard.git)
    cd sp500-market-trends-dashboard
-````
 
-2.  **Open the Python Script / Jupyter Notebook**
+2.  Open the Python Script / Jupyter Notebook**
 
     This file contains:
 
@@ -77,13 +64,3 @@ If you enjoyed this project and want to follow my data journey, let’s stay in 
 
 ## 💡 Thanks for checking out the project\! Your support means a lot\! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
 
-```
-
-***
-
-**How to use this:**
-1. Copy the code block above.
-2. Create a new file in your GitHub repository named `README.md`.
-3. Paste the code in. 
-4. Drag and drop the actual image files from your computer over the `![Image Name](File Name.png)` texts to upload them directly into the README! (Don't forget to update the LinkedIn and Portfolio links at the bottom).
-```
